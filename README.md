@@ -4,13 +4,13 @@ Este projeto é uma landing page interativa desenvolvida com foco em performance
 
 🛠️ Tecnologias utilizadas:
 
--React
+- React
 
--Three.js (via React Three Fiber)
+- Three.js (via React Three Fiber)
 
--GSAP
+- GSAP
 
--Tailwind CSS
+- Tailwind CSS
 
 # Como executar o projeto localmente
 
