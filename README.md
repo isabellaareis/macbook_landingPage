@@ -17,8 +17,11 @@ Este projeto é uma landing page interativa desenvolvida com foco em performance
 1 - Clone este repositório
 
 2 - Abra o projeto no WebStorm (ou no editor de sua preferência).
+
 3 - No terminal, instale as dependências ultilizando o comando: npm install
+
 4 - Inicie o servidor de desenvolvimento  ultilizando o comando: npm run dev
+
 5 - Acesse o projeto no navegador pelo endereço exibido no terminal (geralmente http://localhost:5173).
 
 -------------------------------------------
